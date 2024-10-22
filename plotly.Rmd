@@ -74,3 +74,19 @@ nyc_airbnb |>
 ```
 
 
+```{r}
+plot_ly(
+  z = volcano, type = 'heatmap'
+)
+
+
+```
+
+
+Here's a choropleth
+```{r}
+plot_ly(
+  type = "choropleth"
+)
+```
+
