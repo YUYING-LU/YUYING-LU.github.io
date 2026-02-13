@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs  # <--- 加上这一行！重要！
 
 website:
   title: ""
