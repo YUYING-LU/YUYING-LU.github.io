@@ -1,0 +1,66 @@
+---
+title: "Yuying's Academic Webpage"
+---
+Welcome to my personal page!
+
+<div class="site-wrap">
+
+<div class="wordmark">YOUR NAME</div>
+<div class="wordmark-sub">Data · Design · Notes</div>
+
+<nav class="subnav">
+  <a href="about.qmd">About</a>
+  <a href="projects.qmd">Work</a>
+  <a href="posts.qmd">Writing</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<div class="tile-grid">
+
+<a class="tile" href="projects.qmd">
+  <img src="assets/img/tile-1.jpg" alt="Work preview">
+  <div class="tile-cap">
+    <div class="kicker">Featured</div>
+    <p class="title">Selected Projects</p>
+  </div>
+</a>
+
+<a class="tile" href="posts.qmd">
+  <img src="assets/img/tile-2.jpg" alt="Writing preview">
+  <div class="tile-cap">
+    <div class="kicker">Writing</div>
+    <p class="title">Notes & Essays</p>
+  </div>
+</a>
+
+<a class="tile" href="about.qmd">
+  <img src="assets/img/tile-3.jpg" alt="About preview">
+  <div class="tile-cap">
+    <div class="kicker">Profile</div>
+    <p class="title">About Me</p>
+  </div>
+</a>
+
+</div>
+
+<br><br>
+
+## Latest
+
+- **2026-02** — A new post / project update
+- **2026-01** — Something you built
+- **2025-12** — A talk / publication
+
+<br>
+
+<div id="contact"></div>
+
+## Contact
+
+- Email: yl5839@cumc.columbia.edu
+- GitHub: https://github.com/YUYING_LU  
+
+</div>
+
+   
+I'm a 2nd year PhD student in Biostatistics at Columbia University. My research interests lie at the intersection of machine learning, statistics and optimization.

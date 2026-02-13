@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+<div class="site-wrap">
+
+# About
+
+I'm a 2nd year PhD student in Biostatistics at Columbia University. My research interests lie at the intersection of machine learning, statistics and optimization.
+
+## Bio
+- 方向 / 技能栈
+- 你关心的问题
+- What I am doing now is
+
+## Links
+- CV / Resume
+- GitHub / Blog / Scholar
+
+</div>
