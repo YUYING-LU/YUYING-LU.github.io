@@ -1,56 +1,74 @@
 ---
-title: "Home"
+title: ""  # 留空，我们自己用代码控制标题位置
+toc: false # 首页通常不需要目录，显得更干净
 ---
 
-<div class="site-wrap">
+::: {.grid}
 
-<div class="wordmark">Yuying Lu</div>
-<div class="wordmark-sub">2nd Year PhD Student · Biostatistics · Machine Learning </div>
+::: {.g-col-12 .g-col-md-4}
 
-<nav class="subnav">
-  <a href="research.qmd">Research</a>
-  <a href="publications.qmd">Publications</a>
-  <a href="teaching.qmd">Teaching</a>
-  <a href="assets/cv.pdf">CV</a>
-  <a href="contact.qmd">Contact</a>
-</nav>
+<center>
+![](assets/img/me.jpg){width=200px style="border-radius: 50%;"}
 
-<div class="tile-grid">
+# Yuying Lu
 
-<a class="tile" href="research.qmd">
-  <img src="assets/img/tile-1.jpg" alt="Research">
-  <div class="tile-cap">
-    <div class="kicker">Focus</div>
-    <p class="tile-title">Research Themes</p>
-  </div>
-</a>
+<div style="color: gray; font-size: 0.9em;">
+PhD Student  
+Biostatistics @ Columbia University  
+</div>
 
-<a class="tile" href="publications.qmd">
-  <img src="assets/img/tile-2.jpg" alt="Publications">
-  <div class="tile-cap">
-    <div class="kicker">Papers</div>
-    <p class="tile-title">Selected Publications</p>
-  </div>
-</a>
 
-<a class="tile" href="assets/cv.pdf">
-  <img src="assets/img/tile-3.jpg" alt="CV">
-  <div class="tile-cap">
-    <div class="kicker">Download</div>
-    <p class="tile-title">Curriculum Vitae</p>
-  </div>
-</a>
+
+</center>
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+## Biography
+
+I am a second-year PhD student in **Biostatistics** at **Columbia University**.
+
+My research interests lie at the intersection of **machine learning, statistics, and optimization**. I am particularly interested in causal inference and statistical machine learning applications in EHR.
+
+Please feel free to reach out via email for collaboration!
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
+  
+  <a href="mailto:yl5839@cumc.columbia.edu" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa envelope >}} Email
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=XXXX" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa graduation-cap >}} Scholar
+  </a>
+
+  <a href="https://github.com/YUYING-LU" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa brands github >}} GitHub
+  </a>
+
+  <a href="assets/cv.pdf" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa file-lines >}} CV
+  </a>
 
 </div>
+
+:::
+
+:::
+
+<br>
 
 ## News
 
-- **2026-02** Paper accepted at XXX.
-- **2026-01** New preprint released.
-- **2025-12** Invited talk at XXX.
+- **2026-02** | Paper accepted at XXX[cite: 3].
+- **2026-01** | New preprint released.
+- **2025-12** | Invited talk at XXX.
 
-## About
+## About My Research
 
+I focus on developing robust statistical methods for complex data. Currently, I am working on:
 
-I'm a 2nd year PhD student in Biostatistics at Columbia University. My research interests lie at the intersection of machine learning, statistics and optimization.
-</div>
+* **Causal Inference:** Methods for observational studies.
+* **Generative Models:** Applications of diffusion models in EHR data.
+* **Optimization:** Theory behind non-convex optimization in deep learning.
+

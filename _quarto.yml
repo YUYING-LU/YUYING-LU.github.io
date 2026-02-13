@@ -1,36 +1,29 @@
 project:
   type: website
-  output-dir: docs  # <--- 加上这一行！重要！
+  output-dir: docs
 
 website:
-  title: ""
+  title: "Yuying Lu" 
   navbar:
-    pinned: true
+    pinned: true         
+    collapse: true       
     background: "#ffffff"
-    foreground: "#111111"
+    foreground: "#111111" 
+    border: true          
     left:
       - href: index.qmd
         text: HOME
-      - href: bio.qmd
-        text: BIO
       - href: research.qmd
         text: RESEARCH
       - href: publications.qmd
         text: PUBLICATIONS
       - href: teaching.qmd
         text: TEACHING
-      - href: contact.qmd
-        text: CONTACT
-    right:
-      - icon: envelope
-        href: "mailto:you@university.edu"
-      - icon: github
-        href: "https://github.com/yourname"
-      - icon: file-earmark-text
-        href: "assets/cv.pdf"
 
 format:
   html:
-    theme: none
-    css: styles.css
-    toc: false
+    theme: cosmo         
+    css: styles.css      
+    toc: false            
+    fontsize: 1.1em      
+    linestretch: 1.5    
