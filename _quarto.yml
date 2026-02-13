@@ -17,8 +17,8 @@ website:
         text: RESEARCH
       - href: publications.qmd
         text: PUBLICATIONS
-      - href: teaching.qmd
-        text: TEACHING
+      - href: experience.qmd
+        text: EXPERIENCE
 
 format:
   html:

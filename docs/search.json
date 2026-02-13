@@ -21,6 +21,34 @@
     "text": "You, … (2026). Title. arXiv. arXiv"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yuying Lu",
+    "section": "",
+    "text": "PhD Student\nBiostatistics @ Columbia University\n\n\n\n\n\n\nI am a second-year PhD student in Biostatistics at Columbia University.\nMy research interests lie at the intersection of machine learning, statistics, and optimization. I am particularly interested in causal inference and statistical machine learning applications in EHR.\nPlease feel free to reach out via email for collaboration!\n\n  Email \n  Scholar \n  GitHub \n  CV"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Yuying Lu",
+    "section": "",
+    "text": "I am a second-year PhD student in Biostatistics at Columbia University.\nMy research interests lie at the intersection of machine learning, statistics, and optimization. I am particularly interested in causal inference and statistical machine learning applications in EHR.\nPlease feel free to reach out via email for collaboration!\n\n  Email \n  Scholar \n  GitHub \n  CV"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Yuying Lu",
+    "section": "News",
+    "text": "News\n\n2026-02 | Paper accepted at XXX[cite: 3].\n2026-01 | New preprint released.\n2025-12 | Invited talk at XXX."
+  },
+  {
+    "objectID": "index.html#about-my-research",
+    "href": "index.html#about-my-research",
+    "title": "Yuying Lu",
+    "section": "About My Research",
+    "text": "About My Research\nI focus on developing robust statistical methods for complex data. Currently, I am working on:\n\nCausal Inference: Methods for observational studies.\nGenerative Models: Applications of diffusion models in EHR data.\nOptimization: Theory behind non-convex optimization in deep learning."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -49,45 +77,24 @@
     "text": "包 / 仓库 / 数据集"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "Causal inference"
+    "text": "University Biostatistics Annual Symposium 2025 Poster Competition, Apr.2025;\nData Science Day 2025 Poster, Columbia University Data Science Institute, Mar.2025"
   },
   {
-    "objectID": "teaching.html#spring-1",
-    "href": "teaching.html#spring-1",
-    "title": "Teaching",
+    "objectID": "experience.html#posters",
+    "href": "experience.html#posters",
+    "title": "Experience",
     "section": "",
-    "text": "Causal inference"
+    "text": "University Biostatistics Annual Symposium 2025 Poster Competition, Apr.2025;\nData Science Day 2025 Poster, Columbia University Data Science Institute, Mar.2025"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yuying Lu",
-    "section": "",
-    "text": "PhD Student\nBiostatistics @ Columbia University\n\n\n\n\n\n\nI am a second-year PhD student in Biostatistics at Columbia University.\nMy research interests lie at the intersection of machine learning, statistics, and optimization. I am particularly interested in causal inference and statistical machine learning applications in EHR.\nPlease feel free to reach out via email for collaboration!\n\n  Email \n  Scholar \n  GitHub \n  CV"
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Yuying Lu",
-    "section": "",
-    "text": "I am a second-year PhD student in Biostatistics at Columbia University.\nMy research interests lie at the intersection of machine learning, statistics, and optimization. I am particularly interested in causal inference and statistical machine learning applications in EHR.\nPlease feel free to reach out via email for collaboration!\n\n  Email \n  Scholar \n  GitHub \n  CV"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Yuying Lu",
-    "section": "News",
-    "text": "News\n\n2026-02 | Paper accepted at XXX[cite: 3].\n2026-01 | New preprint released.\n2025-12 | Invited talk at XXX."
-  },
-  {
-    "objectID": "index.html#about-my-research",
-    "href": "index.html#about-my-research",
-    "title": "Yuying Lu",
-    "section": "About My Research",
-    "text": "About My Research\nI focus on developing robust statistical methods for complex data. Currently, I am working on:\n\nCausal Inference: Methods for observational studies.\nGenerative Models: Applications of diffusion models in EHR data.\nOptimization: Theory behind non-convex optimization in deep learning."
+    "objectID": "experience.html#teaching-assistant",
+    "href": "experience.html#teaching-assistant",
+    "title": "Experience",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nBIST P9110 - Statistical Inference II (PhD)：2026 Spring;\nBIST P9109 - Statistical Inference I (PhD)：2025 Fall;\nBIST P8131 -Biostatistical Methods II (MS)：2025 Spring;"
   }
 ]

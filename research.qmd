@@ -4,7 +4,6 @@ title: "Research"
 
 <div class="site-wrap">
 
-# Research
 
 ## Theme A
 - 问题：……
