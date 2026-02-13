@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Home"
 ---
 
 <div class="site-wrap">
 
-<div class="wordmark">YOUR NAME</div>
-<div class="wordmark-sub">Assistant Professor · Statistics · Causal Inference</div>
+<div class="wordmark">Yuying Lu</div>
+<div class="wordmark-sub">2nd Year PhD Student · Biostatistics · Machine Learning </div>
 
 <nav class="subnav">
   <a href="research.qmd">Research</a>
