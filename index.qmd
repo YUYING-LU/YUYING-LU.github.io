@@ -1,66 +1,56 @@
 ---
-title: "Yuying's Academic Webpage"
+title: ""
 ---
-Welcome to my personal page!
 
 <div class="site-wrap">
 
 <div class="wordmark">YOUR NAME</div>
-<div class="wordmark-sub">Data · Design · Notes</div>
+<div class="wordmark-sub">Assistant Professor · Statistics · Causal Inference</div>
 
 <nav class="subnav">
-  <a href="about.qmd">About</a>
-  <a href="projects.qmd">Work</a>
-  <a href="posts.qmd">Writing</a>
-  <a href="#contact">Contact</a>
+  <a href="research.qmd">Research</a>
+  <a href="publications.qmd">Publications</a>
+  <a href="teaching.qmd">Teaching</a>
+  <a href="assets/cv.pdf">CV</a>
+  <a href="contact.qmd">Contact</a>
 </nav>
 
 <div class="tile-grid">
 
-<a class="tile" href="projects.qmd">
-  <img src="assets/img/tile-1.jpg" alt="Work preview">
+<a class="tile" href="research.qmd">
+  <img src="assets/img/tile-1.jpg" alt="Research">
   <div class="tile-cap">
-    <div class="kicker">Featured</div>
-    <p class="title">Selected Projects</p>
+    <div class="kicker">Focus</div>
+    <p class="tile-title">Research Themes</p>
   </div>
 </a>
 
-<a class="tile" href="posts.qmd">
-  <img src="assets/img/tile-2.jpg" alt="Writing preview">
+<a class="tile" href="publications.qmd">
+  <img src="assets/img/tile-2.jpg" alt="Publications">
   <div class="tile-cap">
-    <div class="kicker">Writing</div>
-    <p class="title">Notes & Essays</p>
+    <div class="kicker">Papers</div>
+    <p class="tile-title">Selected Publications</p>
   </div>
 </a>
 
-<a class="tile" href="about.qmd">
-  <img src="assets/img/tile-3.jpg" alt="About preview">
+<a class="tile" href="assets/cv.pdf">
+  <img src="assets/img/tile-3.jpg" alt="CV">
   <div class="tile-cap">
-    <div class="kicker">Profile</div>
-    <p class="title">About Me</p>
+    <div class="kicker">Download</div>
+    <p class="tile-title">Curriculum Vitae</p>
   </div>
 </a>
 
 </div>
 
-<br><br>
+## News
 
-## Latest
+- **2026-02** Paper accepted at XXX.
+- **2026-01** New preprint released.
+- **2025-12** Invited talk at XXX.
 
-- **2026-02** — A new post / project update
-- **2026-01** — Something you built
-- **2025-12** — A talk / publication
+## About
 
-<br>
 
-<div id="contact"></div>
-
-## Contact
-
-- Email: yl5839@cumc.columbia.edu
-- GitHub: https://github.com/YUYING_LU  
-
-</div>
-
-   
 I'm a 2nd year PhD student in Biostatistics at Columbia University. My research interests lie at the intersection of machine learning, statistics and optimization.
+</div>

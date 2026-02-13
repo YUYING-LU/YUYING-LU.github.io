@@ -1,36 +1,35 @@
 project:
   type: website
-  output-dir: _site
 
 website:
   title: ""
   navbar:
+    pinned: true
     background: "#ffffff"
     foreground: "#111111"
-    pinned: true
     left:
       - href: index.qmd
         text: HOME
-      - href: about.qmd
-        text: ABOUT
-      - href: projects.qmd
-        text: WORK
-      - href: posts.qmd
-        text: BLOG
+      - href: bio.qmd
+        text: BIO
+      - href: research.qmd
+        text: RESEARCH
+      - href: publications.qmd
+        text: PUBLICATIONS
+      - href: teaching.qmd
+        text: TEACHING
+      - href: contact.qmd
+        text: CONTACT
     right:
       - icon: envelope
-        href: "mailto:you@example.com"
+        href: "mailto:you@university.edu"
       - icon: github
         href: "https://github.com/yourname"
-      - icon: instagram
-        href: "https://instagram.com/yourname"
+      - icon: file-earmark-text
+        href: "assets/cv.pdf"
 
 format:
   html:
     theme: none
     css: styles.css
     toc: false
-    smooth-scroll: true
-    page-layout: full
-
-# 图标来自 Font Awesome（Quarto 内置支持）

@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+<div class="site-wrap">
+
+# Selected Publications
+
+1. **You**, Coauthor. (2026). *Paper title*. Journal. [PDF](#) · [Code](#)
+2. **You**, Coauthor. (2025). *Paper title*. Conference. [PDF](#)
+
+# Preprints
+- **You**, ... (2026). *Title*. arXiv. [arXiv](#)
+
+</div>

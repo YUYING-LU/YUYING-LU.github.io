@@ -1,0 +1,41 @@
+---
+title: "Bio"
+---
+
+<div class="site-wrap">
+
+<div class="bio-grid">
+
+<div class="bio-left">
+  <img class="avatar" src="assets/img/me.jpg" alt="My photo">
+  <div class="bio-name">YOUR NAME</div>
+  <div class="bio-role">Quantitative Researcher</div>
+
+  <div class="badge-links">
+    <a href="mailto:you@university.edu">Email</a>
+    <a href="https://scholar.google.com/citations?user=XXXX">Scholar</a>
+    <a href="https://github.com/yourname">GitHub</a>
+    <a href="assets/cv.pdf">CV</a>
+  </div>
+</div>
+
+<div class="bio-right">
+
+# Biography
+
+你的一段式简介（职务、机构、研究方向、方法关键词、应用领域）。
+
+第二段写你的学术经历与兴趣，例如：
+- PhD / Postdoc / Faculty
+- 关注的问题与方法
+- 合作兴趣与联系方式
+
+## Interests
+- Causal inference
+- Statistical machine learning
+- Health / environment / policy (按你的方向改)
+
+</div>
+
+</div>
+</div>
