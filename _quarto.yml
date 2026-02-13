@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: ""
+  navbar:
+    background: "#ffffff"
+    foreground: "#111111"
+    pinned: true
+    left:
+      - href: index.qmd
+        text: HOME
+      - href: about.qmd
+        text: ABOUT
+      - href: projects.qmd
+        text: WORK
+      - href: posts.qmd
+        text: BLOG
+    right:
+      - icon: envelope
+        href: "mailto:you@example.com"
+      - icon: github
+        href: "https://github.com/yourname"
+      - icon: instagram
+        href: "https://instagram.com/yourname"
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full
+
+# 图标来自 Font Awesome（Quarto 内置支持）

@@ -1,0 +1,8 @@
+---
+title: "Yuying's Academic Webpage"
+---
+
+Welcome to my personal page!
+
+   
+I'm a 2nd year PhD student in Biostatistics at Columbia University. My research interests lie at the intersection of machine learning, statistics and optimization.
