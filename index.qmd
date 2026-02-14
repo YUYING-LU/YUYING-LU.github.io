@@ -47,7 +47,7 @@ I am a second-year PhD student in **Biostatistics** at **Columbia University**, 
 
 Prior to joining Columbia, I received my Bachelor's degree in **Mathematics and Applied Mathematics** at **Shanghai Jiao Tong University**, advised by Dr. [Lin Liu](https://linliu-stats.github.io/).
 
-My research interests lie at the intersection of **Knowledge Transfer**, **Adaptive Data Fusion** and **Data Generation**, with particular application to high-dimensional biological data and Electronic Health Records (EHR). 
+My research interests lie at the intersection of **Knowledge Transfer**, **Adaptive Data Fusion**, and **Generative Modeling**, with applications to high-dimensional biomedical data and electronic health records (EHR). 
 
 Please feel free to reach out via email for collaboration!
 
@@ -60,9 +60,10 @@ Please feel free to reach out via email for collaboration!
 
 ## Research Interests
 
-I focus on developing robust statistical learning and machine learning technique to improve model generalizability and reliability for clinical decision support—advancing precision diagnosis, individual treatment effects, and patient outcomes. Currently, I am working on:
+I focus on developing robust statistical learning and adaptive machine learning methodologies to improve the model generalizability and reliability of clinical decision support, advancing precision diagnosis and individualized treatment effects:
 
-* **Transfer Learning:** 
-* **Generative Models:** Applications of diffusion models in EHR data.
-* **Optimization:** Theory behind non-convex optimization in deep learning.
+* **Transfer Learning & Domain Adaptation** for risk prediction and time-to-event outcomes;
+* **Online Learning** for real-time model updatings;
+* **Diffusion Models** for high-fidelity, privacy-preserving longitudinal EHR generation;
+* **Robust Optimization** for multi-domain individualized treatment effects (ITE).
 

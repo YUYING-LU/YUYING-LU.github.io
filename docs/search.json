@@ -4,56 +4,49 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Yuying Lu, Tian Gu, & Rui Duan. (2025). Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment. Biostatistics. (Accepted). [medRxiv] [Code]\nYuying Lu, Tian Gu, & Rui Duan. (2023). Enhancing Genetic Risk Prediction through Federated Semi-Supervised Transfer Learning with Inaccurate Electronic Health Record Data. Statistics in Biosciences. [Link]\n\n\n\n\n\n\nYuying Lu, Lan Luo, & Tian Gu. ReFIT: Federated Transfer Learning for Sequential Prediction and Uncertainty Quantification Using Streaming EHR Data. (under review).\nYuying Lu (co-first), Camille Morencé, Yong Jin Kweon, Archer Y. Yang, & Jun Ding. SC2CD: Co-optimizes Spatial Clustering and Cell Decomposition through Bidirectional Information Flow in Single-Cell Spatial Transcriptomics. (Submitted).\nWenbo Fei, Yuying Lu (co-first), Yuanjia Wang, & Molei Liu. Maximin Learning of Heterogeneous Treatment Effect on Multi-Domain Outcomes. (In preparation)."
+    "text": "Yuying Lu, Lan Luo, & Tian Gu. (2025) ReFIT: Federated Transfer Learning for Sequential Prediction and Uncertainty Quantification Using Streaming EHR Data. (under review).\nYuying Lu, Tian Gu, & Rui Duan. (2025). Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment. Biostatistics. (Accepted). [medRxiv] [Code]\nYuying Lu, Tian Gu, & Rui Duan. (2023). Enhancing Genetic Risk Prediction through Federated Semi-Supervised Transfer Learning with Inaccurate Electronic Health Record Data. Statistics in Biosciences. [Link]\n\n\n\n\n\n\nWenbo Fei, Yuying Lu (co-first), Yuanjia Wang, & Molei Liu. (2026) Maximin Learning of Heterogeneous Treatment Effect on Multi-Domain Outcomes. (In preparation).\n\n\n\n\n\nYuying Lu (co-first), Camille Morencé, Yong Jin Kweon, Archer Y. Yang, & Jun Ding. (2025) SC2CD: Co-optimizes Spatial Clustering and Cell Decomposition through Bidirectional Information Flow in Single-Cell Spatial Transcriptomics. (Submitted)."
   },
   {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
+    "objectID": "publications.html#statistical-machine-learning",
+    "href": "publications.html#statistical-machine-learning",
     "title": "Publications",
     "section": "",
-    "text": "Yuying Lu, Tian Gu, & Rui Duan. (2025). Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment. Biostatistics. (Accepted). [medRxiv] [Code]\nYuying Lu, Tian Gu, & Rui Duan. (2023). Enhancing Genetic Risk Prediction through Federated Semi-Supervised Transfer Learning with Inaccurate Electronic Health Record Data. Statistics in Biosciences. [Link]"
+    "text": "Yuying Lu, Lan Luo, & Tian Gu. (2025) ReFIT: Federated Transfer Learning for Sequential Prediction and Uncertainty Quantification Using Streaming EHR Data. (under review).\nYuying Lu, Tian Gu, & Rui Duan. (2025). Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment. Biostatistics. (Accepted). [medRxiv] [Code]\nYuying Lu, Tian Gu, & Rui Duan. (2023). Enhancing Genetic Risk Prediction through Federated Semi-Supervised Transfer Learning with Inaccurate Electronic Health Record Data. Statistics in Biosciences. [Link]"
   },
   {
-    "objectID": "publications.html#manuscripts-preprints",
-    "href": "publications.html#manuscripts-preprints",
+    "objectID": "publications.html#optimization",
+    "href": "publications.html#optimization",
     "title": "Publications",
     "section": "",
-    "text": "Yuying Lu, Lan Luo, & Tian Gu. ReFIT: Federated Transfer Learning for Sequential Prediction and Uncertainty Quantification Using Streaming EHR Data. (under review).\nYuying Lu (co-first), Camille Morencé, Yong Jin Kweon, Archer Y. Yang, & Jun Ding. SC2CD: Co-optimizes Spatial Clustering and Cell Decomposition through Bidirectional Information Flow in Single-Cell Spatial Transcriptomics. (Submitted).\nWenbo Fei, Yuying Lu (co-first), Yuanjia Wang, & Molei Liu. Maximin Learning of Heterogeneous Treatment Effect on Multi-Domain Outcomes. (In preparation)."
+    "text": "Wenbo Fei, Yuying Lu (co-first), Yuanjia Wang, & Molei Liu. (2026) Maximin Learning of Heterogeneous Treatment Effect on Multi-Domain Outcomes. (In preparation)."
+  },
+  {
+    "objectID": "publications.html#deep-learning",
+    "href": "publications.html#deep-learning",
+    "title": "Publications",
+    "section": "",
+    "text": "Yuying Lu (co-first), Camille Morencé, Yong Jin Kweon, Archer Y. Yang, & Jun Ding. (2025) SC2CD: Co-optimizes Spatial Clustering and Cell Decomposition through Bidirectional Information Flow in Single-Cell Spatial Transcriptomics. (Submitted)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yuying Lu",
     "section": "",
-    "text": "CV \n\n\n\n\n\n\nI am a second-year PhD student in Biostatistics at Columbia University, advised by Dr. Tian Gu.\nPrior to joining Columbia, I received my Bachelor’s degree in Mathematics and Applied Mathematics at Shanghai Jiao Tong University, advised by Dr. Lin Liu.\nMy research interests lie at the intersection of Knowledge Transfer, Adaptive Data Fusion and Data Generation, with particular application to high-dimensional biological data and Electronic Health Records (EHR).\nPlease feel free to reach out via email for collaboration!"
+    "text": "CV \n\n\n\n\n\n\nI am a second-year PhD student in Biostatistics at Columbia University, advised by Dr. Tian Gu.\nPrior to joining Columbia, I received my Bachelor’s degree in Mathematics and Applied Mathematics at Shanghai Jiao Tong University, advised by Dr. Lin Liu.\nMy research interests lie at the intersection of Knowledge Transfer, Adaptive Data Fusion, and Generative Modeling, with applications to high-dimensional biomedical data and electronic health records (EHR).\nPlease feel free to reach out via email for collaboration!"
   },
   {
     "objectID": "index.html#biography",
     "href": "index.html#biography",
     "title": "Yuying Lu",
     "section": "",
-    "text": "I am a second-year PhD student in Biostatistics at Columbia University, advised by Dr. Tian Gu.\nPrior to joining Columbia, I received my Bachelor’s degree in Mathematics and Applied Mathematics at Shanghai Jiao Tong University, advised by Dr. Lin Liu.\nMy research interests lie at the intersection of Knowledge Transfer, Adaptive Data Fusion and Data Generation, with particular application to high-dimensional biological data and Electronic Health Records (EHR).\nPlease feel free to reach out via email for collaboration!"
+    "text": "I am a second-year PhD student in Biostatistics at Columbia University, advised by Dr. Tian Gu.\nPrior to joining Columbia, I received my Bachelor’s degree in Mathematics and Applied Mathematics at Shanghai Jiao Tong University, advised by Dr. Lin Liu.\nMy research interests lie at the intersection of Knowledge Transfer, Adaptive Data Fusion, and Generative Modeling, with applications to high-dimensional biomedical data and electronic health records (EHR).\nPlease feel free to reach out via email for collaboration!"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Yuying Lu",
     "section": "Research Interests",
-    "text": "Research Interests\nI focus on developing robust statistical learning and machine learning technique to improve model generalizability and reliability for clinical decision support—advancing precision diagnosis, individual treatment effects, and patient outcomes. Currently, I am working on:\n\nTransfer Learning:\nGenerative Models: Applications of diffusion models in EHR data.\nOptimization: Theory behind non-convex optimization in deep learning."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": ".."
-  },
-  {
-    "objectID": "projects.html#software-data",
-    "href": "projects.html#software-data",
-    "title": "Projects",
-    "section": "",
-    "text": ".."
+    "text": "Research Interests\nI focus on developing robust statistical learning and adaptive machine learning methodologies to improve the model generalizability and reliability of clinical decision support, advancing precision diagnosis and individualized treatment effects:\n\nTransfer Learning & Domain Adaptation for risk prediction and time-to-event outcomes;\nOnline Learning for real-time model updatings;\nDiffusion Models for high-fidelity, privacy-preserving longitudinal EHR generation;\nRobust Optimization for multi-domain individualized treatment effects (ITE)."
   },
   {
     "objectID": "experience.html",
