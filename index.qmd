@@ -17,7 +17,7 @@ toc: false
     {{< fa envelope >}} 
   </a>
 
-  <a href="https://scholar.google.com/citations?user=3M_i1f0AAAAJ&hl=en&oi=sra" class="about-link" style="text-decoration: none; color: #333;">
+  <a href="https://scholar.google.com/citations?user=XXXX&user=3M_i1f0AAAAJ" class="about-link" style="text-decoration: none; color: #333;">
     {{< fa graduation-cap >}} 
   </a>
 
