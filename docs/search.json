@@ -53,14 +53,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "问题：……\n方法：……\n代表作：链接到论文/代码（可以指向 publications 页）\n\n\n\n\n\n…\n\n\n\n\n\n包 / 仓库 / 数据集"
-  },
-  {
-    "objectID": "research.html#theme-a",
-    "href": "research.html#theme-a",
-    "title": "Research",
-    "section": "",
-    "text": "问题：……\n方法：……\n代表作：链接到论文/代码（可以指向 publications 页）"
+    "text": "…"
   },
   {
     "objectID": "research.html#theme-b",
@@ -68,13 +61,6 @@
     "title": "Research",
     "section": "",
     "text": "…"
-  },
-  {
-    "objectID": "research.html#software-data-可选",
-    "href": "research.html#software-data-可选",
-    "title": "Research",
-    "section": "",
-    "text": "包 / 仓库 / 数据集"
   },
   {
     "objectID": "experience.html",

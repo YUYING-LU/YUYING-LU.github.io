@@ -6,14 +6,10 @@ title: "Research"
 
 
 ## Theme A
-- 问题：……
-- 方法：……
-- 代表作：链接到论文/代码（可以指向 publications 页）
-
+- 
 ## Theme B
 - …
 
 ## Software / Data (可选)
-- 包 / 仓库 / 数据集
-
+- 
 </div>
