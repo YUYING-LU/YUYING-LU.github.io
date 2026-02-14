@@ -53,14 +53,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": ".. ## Theme B\n..\n\n\n\n\n\n.."
+    "text": "..\n\n\n\n\n\n..\n\n\n\n\n\n.."
   },
   {
     "objectID": "research.html#theme-a",
     "href": "research.html#theme-a",
     "title": "Research",
     "section": "",
-    "text": ".. ## Theme B\n.."
+    "text": ".."
+  },
+  {
+    "objectID": "research.html#theme-b",
+    "href": "research.html#theme-b",
+    "title": "Research",
+    "section": "",
+    "text": ".."
   },
   {
     "objectID": "research.html#software-data-可选",
