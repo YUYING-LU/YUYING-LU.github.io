@@ -39,7 +39,7 @@
     "href": "index.html#research-interests",
     "title": "Yuying Lu",
     "section": "Research Interests",
-    "text": "Research Interests\nI focus on developing robust statistical learning and machine learning technique to enhance model generalizability to support precise and accurate diagnostics, individualized treatments, and improve patient outcomes. Currently, I am working on:\n\nTransfer Learning: Methods for observational studies.\nGenerative Models: Applications of diffusion models in EHR data.\nOptimization: Theory behind non-convex optimization in deep learning."
+    "text": "Research Interests\nI focus on developing robust statistical learning and machine learning technique to enhance model generalizability to support precise and accurate diagnostics, individualized treatments, and improve patient outcomes. Currently, I am working on:\n\nTransfer Learning:\nGenerative Models: Applications of diffusion models in EHR data.\nOptimization: Theory behind non-convex optimization in deep learning."
   },
   {
     "objectID": "projects.html",
