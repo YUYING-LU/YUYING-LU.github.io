@@ -28,10 +28,7 @@ toc: false
   <a href="https://www.linkedin.com/in/yuying-lu-584035284" class="about-link" style="text-decoration: none; color: #333;">
     {{< fa brands linkedin >}} 
   </a>
-  
-  <a href="assets/cv.pdf" class="about-link" style="text-decoration: none; color: #333; font-weight: 700;">
-    {{< fa file-user >}} CV
-  </a>
+
 
 </div>
 
