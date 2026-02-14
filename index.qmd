@@ -60,7 +60,7 @@ Please feel free to reach out via email for collaboration!
 
 ## Research Interests
 
-I focus on developing robust statistical learning and machine learning technique to enhance model generalizability to support precise and accurate diagnostics, individualized treatments, and improve patient outcomes. Currently, I am working on:
+I focus on developing robust statistical learning and machine learning technique to improve model generalizability and reliability for clinical decision support—advancing precision diagnosis, individual treatment effects, and patient outcomes. Currently, I am working on:
 
 * **Transfer Learning:** 
 * **Generative Models:** Applications of diffusion models in EHR data.
