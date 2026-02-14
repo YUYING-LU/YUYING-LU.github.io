@@ -1,6 +1,6 @@
 ---
-title: ""  # 留空，我们自己用代码控制标题位置
-toc: false # 首页通常不需要目录，显得更干净
+title: ""  
+toc: false
 ---
 
 ::: {.grid}
@@ -10,14 +10,30 @@ toc: false # 首页通常不需要目录，显得更干净
 <center>
 ![](assets/img/me.jpg){width=200px style="border-radius: 50%;"}
 
-# Yuying Lu
+# Yuying Lu 
 
-<div style="color: gray; font-size: 0.9em;">
-PhD Student  
-Biostatistics @ Columbia University  
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <a href="mailto:yl5839@cumc.columbia.edu" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa envelope >}} 
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=XXXX" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa graduation-cap >}} 
+  </a>
+
+  <a href="https://github.com/YUYING-LU" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa brands github >}} 
+  </a>
+  
+  <a href="https://www.linkedin.com/in/yuying-lu-584035284" class="about-link" style="text-decoration: none; color: #333;">
+    {{< fa brands linkedin >}} 
+  </a>
+  
+  <a href="assets/cv.pdf" class="about-link" style="text-decoration: none; color: #333; font-weight: 700;">
+    {{< fa file-user >}} CV
+  </a>
+
 </div>
-
-
 
 </center>
 
@@ -27,30 +43,13 @@ Biostatistics @ Columbia University
 
 ## Biography
 
-I am a second-year PhD student in **Biostatistics** at **Columbia University**.
+I am a second-year PhD student in **Biostatistics** at **Columbia University**, advised by Dr. [Tian Gu](https://www.gutian.info/).
 
-My research interests lie at the intersection of **machine learning, statistics, and optimization**. I am particularly interested in causal inference and statistical machine learning applications in EHR.
+Prior to joining Columbia, I received my Bachelor's degree in **Mathematics and Applied Mathematics** at **Shanghai Jiao Tong University**, advised by Dr. [Lin Liu](https://linliu-stats.github.io/).
+
+My research interests lie at the intersection of **Knowledge Transfer**, **Adaptive Data Fusion**, and , with particular application to high-dimensional biological data and Electronic Health Records (EHR). I'm currentlt **Data Generation**
 
 Please feel free to reach out via email for collaboration!
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
-  
-  <a href="mailto:yl5839@cumc.columbia.edu" class="about-link" style="text-decoration: none; color: #333;">
-    {{< fa envelope >}} Email
-  </a>
-
-  <a href="https://scholar.google.com/citations?user=XXXX" class="about-link" style="text-decoration: none; color: #333;">
-    {{< fa graduation-cap >}} Scholar
-  </a>
-
-  <a href="https://github.com/YUYING-LU" class="about-link" style="text-decoration: none; color: #333;">
-    {{< fa brands github >}} GitHub
-  </a>
-
-  <a href="assets/cv.pdf" class="about-link" style="text-decoration: none; color: #333;">
-    {{< fa file-lines >}} CV
-  </a>
-
-</div>
 
 :::
 
@@ -58,17 +57,12 @@ Please feel free to reach out via email for collaboration!
 
 <br>
 
-## News
 
-- **2026-02** | Paper accepted at XXX[cite: 3].
-- **2026-01** | New preprint released.
-- **2025-12** | Invited talk at XXX.
+## Research Interests
 
-## About My Research
+I focus on developing robust statistical learning and machine learning technique to enhance model generalizability to support precise and accurate diagnostics, individualized treatments, and improve patient outcomes. Currently, I am working on:
 
-I focus on developing robust statistical methods for complex data. Currently, I am working on:
-
-* **Causal Inference:** Methods for observational studies.
+* **Transfer Learning:** Methods for observational studies.
 * **Generative Models:** Applications of diffusion models in EHR data.
 * **Optimization:** Theory behind non-convex optimization in deep learning.
 

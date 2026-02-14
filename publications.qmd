@@ -4,12 +4,22 @@ title: "Publications"
 
 <div class="site-wrap">
 
-## Selected Publications
+## Publications
 
-1. **You**, Coauthor. (2026). *Paper title*. Journal. [PDF](#) · [Code](#)
-2. **You**, Coauthor. (2025). *Paper title*. Conference. [PDF](#)
+1.  **Yuying Lu**, Tian Gu, & Rui Duan. (2025). *Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment.* Biostatistics. (Accepted). 
+    [[medRxiv](https://www.medrxiv.org/content/10.1101/2025.01.14.25320536v2.full)] [[Code](https://github.com/YUYING-LU/CoxTL)]
 
-## Preprints
-- **You**, ... (2026). *Title*. arXiv. [arXiv](#)
+2.  **Yuying Lu**, Tian Gu, & Rui Duan. (2023). *Enhancing Genetic Risk Prediction through Federated Semi-Supervised Transfer Learning with Inaccurate Electronic Health Record Data.* Statistics in Biosciences. 
+    [[Link](https://link.springer.com/article/10.1007/s12561-024-09449-2)] 
+
+<br>
+
+## Manuscripts & Preprints
+
+3.  **Yuying Lu**, Lan Luo, & Tian Gu. *ReFIT: Federated Transfer Learning for Sequential Prediction and Uncertainty Quantification Using Streaming EHR Data.* (under review).
+
+4.  **Yuying Lu** (co-first), Camille Morencé, Yong Jin Kweon, Archer Y. Yang, & Jun Ding. *SC2CD: Co-optimizes Spatial Clustering and Cell Decomposition through Bidirectional Information Flow in Single-Cell Spatial Transcriptomics.* (Submitted).
+
+5.  Wenbo Fei, **Yuying Lu** (co-first), Yuanjia Wang, & Molei Liu. *Maximin Learning of Heterogeneous Treatment Effect on Multi-Domain Outcomes.* (In preparation).
 
 </div>

@@ -13,8 +13,8 @@ website:
     left:
       - href: index.qmd
         text: HOME
-      - href: research.qmd
-        text: RESEARCH
+      - href: projects.qmd
+        text: PROJECTS
       - href: publications.qmd
         text: PUBLICATIONS
       - href: experience.qmd
@@ -25,5 +25,5 @@ format:
     theme: cosmo         
     css: styles.css      
     toc: false            
-    fontsize: 1.1em      
+    fontsize: 0.9em      
     linestretch: 1.5    

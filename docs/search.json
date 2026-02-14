@@ -4,75 +4,54 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "You, Coauthor. (2026). Paper title. Journal. PDF · Code\nYou, Coauthor. (2025). Paper title. Conference. PDF\n\n\n\n\n\nYou, … (2026). Title. arXiv. arXiv"
+    "text": "Yuying Lu, Tian Gu, & Rui Duan. (2025). Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment. Biostatistics. (Accepted). [medRxiv] [Code]\nYuying Lu, Tian Gu, & Rui Duan. (2023). Enhancing Genetic Risk Prediction through Federated Semi-Supervised Transfer Learning with Inaccurate Electronic Health Record Data. Statistics in Biosciences. [Link]\n\n\n\n\n\n\nYuying Lu, Lan Luo, & Tian Gu. ReFIT: Federated Transfer Learning for Sequential Prediction and Uncertainty Quantification Using Streaming EHR Data. (under review).\nYuying Lu (co-first), Camille Morencé, Yong Jin Kweon, Archer Y. Yang, & Jun Ding. SC2CD: Co-optimizes Spatial Clustering and Cell Decomposition through Bidirectional Information Flow in Single-Cell Spatial Transcriptomics. (Submitted).\nWenbo Fei, Yuying Lu (co-first), Yuanjia Wang, & Molei Liu. Maximin Learning of Heterogeneous Treatment Effect on Multi-Domain Outcomes. (In preparation)."
   },
   {
-    "objectID": "publications.html#selected-publications",
-    "href": "publications.html#selected-publications",
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
     "title": "Publications",
     "section": "",
-    "text": "You, Coauthor. (2026). Paper title. Journal. PDF · Code\nYou, Coauthor. (2025). Paper title. Conference. PDF"
+    "text": "Yuying Lu, Tian Gu, & Rui Duan. (2025). Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment. Biostatistics. (Accepted). [medRxiv] [Code]\nYuying Lu, Tian Gu, & Rui Duan. (2023). Enhancing Genetic Risk Prediction through Federated Semi-Supervised Transfer Learning with Inaccurate Electronic Health Record Data. Statistics in Biosciences. [Link]"
   },
   {
-    "objectID": "publications.html#preprints",
-    "href": "publications.html#preprints",
+    "objectID": "publications.html#manuscripts-preprints",
+    "href": "publications.html#manuscripts-preprints",
     "title": "Publications",
     "section": "",
-    "text": "You, … (2026). Title. arXiv. arXiv"
+    "text": "Yuying Lu, Lan Luo, & Tian Gu. ReFIT: Federated Transfer Learning for Sequential Prediction and Uncertainty Quantification Using Streaming EHR Data. (under review).\nYuying Lu (co-first), Camille Morencé, Yong Jin Kweon, Archer Y. Yang, & Jun Ding. SC2CD: Co-optimizes Spatial Clustering and Cell Decomposition through Bidirectional Information Flow in Single-Cell Spatial Transcriptomics. (Submitted).\nWenbo Fei, Yuying Lu (co-first), Yuanjia Wang, & Molei Liu. Maximin Learning of Heterogeneous Treatment Effect on Multi-Domain Outcomes. (In preparation)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yuying Lu",
     "section": "",
-    "text": "PhD Student\nBiostatistics @ Columbia University\n\n\n\n\n\n\nI am a second-year PhD student in Biostatistics at Columbia University.\nMy research interests lie at the intersection of machine learning, statistics, and optimization. I am particularly interested in causal inference and statistical machine learning applications in EHR.\nPlease feel free to reach out via email for collaboration!\n\n  Email \n  Scholar \n  GitHub \n  CV"
+    "text": "CV \n\n\n\n\n\n\nI am a second-year PhD student in Biostatistics at Columbia University, advised by Dr. Tian Gu.\nPrior to joining Columbia, I received my Bachelor’s degree in Mathematics and Applied Mathematics at Shanghai Jiao Tong University, advised by Dr. Lin Liu.\nMy research interests lie at the intersection of Knowledge Transfer, Adaptive Data Fusion, and , with particular application to high-dimensional biological data and Electronic Health Records (EHR). I’m currentlt Data Generation\nPlease feel free to reach out via email for collaboration!"
   },
   {
     "objectID": "index.html#biography",
     "href": "index.html#biography",
     "title": "Yuying Lu",
     "section": "",
-    "text": "I am a second-year PhD student in Biostatistics at Columbia University.\nMy research interests lie at the intersection of machine learning, statistics, and optimization. I am particularly interested in causal inference and statistical machine learning applications in EHR.\nPlease feel free to reach out via email for collaboration!\n\n  Email \n  Scholar \n  GitHub \n  CV"
+    "text": "I am a second-year PhD student in Biostatistics at Columbia University, advised by Dr. Tian Gu.\nPrior to joining Columbia, I received my Bachelor’s degree in Mathematics and Applied Mathematics at Shanghai Jiao Tong University, advised by Dr. Lin Liu.\nMy research interests lie at the intersection of Knowledge Transfer, Adaptive Data Fusion, and , with particular application to high-dimensional biological data and Electronic Health Records (EHR). I’m currentlt Data Generation\nPlease feel free to reach out via email for collaboration!"
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "Yuying Lu",
-    "section": "News",
-    "text": "News\n\n2026-02 | Paper accepted at XXX[cite: 3].\n2026-01 | New preprint released.\n2025-12 | Invited talk at XXX."
+    "section": "Research Interests",
+    "text": "Research Interests\nI focus on developing robust statistical learning and machine learning technique to enhance model generalizability to support precise and accurate diagnostics, individualized treatments, and improve patient outcomes. Currently, I am working on:\n\nTransfer Learning: Methods for observational studies.\nGenerative Models: Applications of diffusion models in EHR data.\nOptimization: Theory behind non-convex optimization in deep learning."
   },
   {
-    "objectID": "index.html#about-my-research",
-    "href": "index.html#about-my-research",
-    "title": "Yuying Lu",
-    "section": "About My Research",
-    "text": "About My Research\nI focus on developing robust statistical methods for complex data. Currently, I am working on:\n\nCausal Inference: Methods for observational studies.\nGenerative Models: Applications of diffusion models in EHR data.\nOptimization: Theory behind non-convex optimization in deep learning."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "..\n\n\n\n\n\n..\n\n\n\n\n\n.."
-  },
-  {
-    "objectID": "research.html#theme-a",
-    "href": "research.html#theme-a",
-    "title": "Research",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
     "text": ".."
   },
   {
-    "objectID": "research.html#theme-b",
-    "href": "research.html#theme-b",
-    "title": "Research",
-    "section": "",
-    "text": ".."
-  },
-  {
-    "objectID": "research.html#software-data",
-    "href": "research.html#software-data",
-    "title": "Research",
+    "objectID": "projects.html#software-data",
+    "href": "projects.html#software-data",
+    "title": "Projects",
     "section": "",
     "text": ".."
   },
@@ -81,7 +60,7 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "University Biostatistics Annual Symposium 2025 Poster Competition, Apr.2025;\nData Science Day 2025 Poster, Columbia University Data Science Institute, Mar.2025"
+    "text": "University Biostatistics Annual Symposium 2025 Poster Competition, Apr.2025;\nData Science Day 2025 Poster, Columbia University Data Science Institute, Mar.2025\n\n\n\n\n\nBIST P9110 - Statistical Inference II (PhD)：2026 Spring;\nBIST P9109 - Statistical Inference I (PhD)：2025 Fall;\nBIST P8131 -Biostatistical Methods II (MS)：2025 Spring;"
   },
   {
     "objectID": "experience.html#posters",
@@ -94,7 +73,7 @@
     "objectID": "experience.html#teaching-assistant",
     "href": "experience.html#teaching-assistant",
     "title": "Experience",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\n\nBIST P9110 - Statistical Inference II (PhD)：2026 Spring;\nBIST P9109 - Statistical Inference I (PhD)：2025 Fall;\nBIST P8131 -Biostatistical Methods II (MS)：2025 Spring;"
+    "section": "",
+    "text": "BIST P9110 - Statistical Inference II (PhD)：2026 Spring;\nBIST P9109 - Statistical Inference I (PhD)：2025 Fall;\nBIST P8131 -Biostatistical Methods II (MS)：2025 Spring;"
   }
 ]

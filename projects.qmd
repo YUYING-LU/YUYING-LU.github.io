@@ -1,15 +1,11 @@
 ---
-title: "Research"
+title: "Projects"
 ---
 
 <div class="site-wrap">
 
 
-## Theme A
-- ..
-
-## Theme B
-- ..
+### Transfer Learning
 
 ## Software / Data 
 - ..

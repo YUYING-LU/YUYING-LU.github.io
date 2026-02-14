@@ -21,10 +21,10 @@ html, body{
 
 .navbar-title {
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
-    font-weight: 700;       /* 加粗 */
-    font-size: 1.5rem;      /* 字号稍微调大 */
-    letter-spacing: 0.02em; /* 稍微增加一点字间距 */
-    color: #111 !important; /* 确保是深黑色 */
+    font-weight: 700;       
+    font-size: 1.5rem;      
+    letter-spacing: 0.02em; 
+    color: #111 !important; 
 }
 
 /* Top navbar */
@@ -221,14 +221,34 @@ body {
 
 
 h1.title {
-    font-size: 3rem;     
+    font-size: 2.5rem;     
     font-weight: 600;     
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     letter-spacing: -1px; 
     color: #111;          
     line-height: 1.1;
 }
 
+h2 {
+    font-size: 2rem;
+    font-weight: 600 !important; 
+    color: #111; 
+}
+
 .anchorjs-link {
     display: none !important;
+}
+strong, b {
+   
+    font-weight: 600 !important; 
+    color: #111 !important; 
+}
+.page-columns, 
+body > .container, 
+body > .grid, 
+div#quarto-content,
+body {
+    max-width: 1350px !important; 
+    width: 100%; 
+    margin: 0 auto; 
 }

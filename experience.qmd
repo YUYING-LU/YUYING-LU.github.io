@@ -2,6 +2,8 @@
 title: "Experience"
 ---
 
+<div class="site-wrap">
+
 ## Posters
 - University Biostatistics Annual Symposium 2025 Poster Competition, Apr.2025;
 - Data Science Day 2025 Poster, Columbia University Data Science Institute, Mar.2025
