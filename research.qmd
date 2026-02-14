@@ -11,6 +11,6 @@ title: "Research"
 ## Theme B
 - ..
 
-## Software / Data (可选)
+## Software / Data 
 - ..
 </div>
