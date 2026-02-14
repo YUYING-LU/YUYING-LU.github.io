@@ -47,7 +47,7 @@ I am a second-year PhD student in **Biostatistics** at **Columbia University**, 
 
 Prior to joining Columbia, I received my Bachelor's degree in **Mathematics and Applied Mathematics** at **Shanghai Jiao Tong University**, advised by Dr. [Lin Liu](https://linliu-stats.github.io/).
 
-My research interests lie at the intersection of **Knowledge Transfer**, **Adaptive Data Fusion**, and , with particular application to high-dimensional biological data and Electronic Health Records (EHR). I'm currentlt **Data Generation**
+My research interests lie at the intersection of **Knowledge Transfer**, **Adaptive Data Fusion**, and , with particular application to high-dimensional biological data and Electronic Health Records (EHR). 
 
 Please feel free to reach out via email for collaboration!
 
