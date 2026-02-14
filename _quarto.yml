@@ -25,5 +25,5 @@ format:
     theme: cosmo         
     css: styles.css      
     toc: false            
-    fontsize: 1em      
+    fontsize: 0.9em      
     linestretch: 1.5    
